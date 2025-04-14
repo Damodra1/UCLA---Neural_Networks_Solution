@@ -2,7 +2,7 @@
 
 This repository contains a collection of solutions and implementations for various neural network problems addressed during the UCLA Neural Networks course. It includes code examples, assignments, and projects that demonstrate key concepts in neural network design, training, and evaluation.
 
-# Visit App Here - https://ucla---neuralnetworkapplution-8ngujs9uxyfrmezjse5bmy.streamlit.app/
+Visit App Here - https://ucla---neuralnetworkapplution-8ngujs9uxyfrmezjse5bmy.streamlit.app/
 
 ## Features
 
